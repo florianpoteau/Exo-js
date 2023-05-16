@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+main{
+    border: 1px solid blue;
+    margin-left: 37%;
+    margin-right: 37%;
+    padding: 2%;
+}
+
+#nom, #mail{
+    margin-left: 13%;
+}
+
+#prenom{
+    margin-left: 8%;
+}
+
+.submit{
+    margin-top: 2%;
+    margin-left: 35%;
+    width: 30%;
+    height: 30px;
+}
